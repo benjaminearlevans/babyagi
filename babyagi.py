@@ -5,13 +5,13 @@ from collections import deque
 from typing import Dict, List
 
 #Set API Keys
-OPENAI_API_KEY = "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"
-PINECONE_API_KEY = "19af1626-b4d9-409f-a886-2e31ca7ecee0"
+OPENAI_API_KEY = "KEY GOES HERE"
+PINECONE_API_KEY = "KEY GOES HERE"
 PINECONE_ENVIRONMENT = "us-west1-gcp" #Pinecone Environment
 
 #Set Variables
 YOUR_TABLE_NAME = "babyagi"
-OBJECTIVE = "create an curriculum, script, and lesson plan to teach product inclusion to product professionals. You will focus on the curriculum and the course structure, and the script for each lesson. Every lesson will focus on educating, informing, and inspiring the audienec to take action. You will not be responsible for the course design or the course delivery, nor will you build any online platforms or portals or interacctive elements; only the course outline, script, and curriculum."
+OBJECTIVE = "YOUR FIRST TASK"
 YOUR_FIRST_TASK = "Develop a task list."
 
 #Print OBJECTIVE
